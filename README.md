@@ -25,10 +25,10 @@ Download Sublist3r tool:
     Remember move sublists_test.py in Sublist3r folder to work.
 
 # Usage
-Short Form: 	Long Form:   Description:
+Short Form:     Long Form:       Description:
     
-    -nt 	    --nikto     Domain name to enumerate subdomains of
-    -np 	    --nmap      Enable the subbrute bruteforce module
+    -nt 	    --nikto     Tests Websites both client side and server side
+    -np 	    --nmap      Tests Servers
 
 # Examples
 
